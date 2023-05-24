@@ -71,4 +71,4 @@ def content_to_db(docs_dir: str) -> None:
 
 
 if __name__ == '__main__':
-    content_to_db("/Users/abcd/Desktop/md-docs")
+    content_to_db("/Users/tim/Documents/opt/ai/knowledge-base-with-gpt-1/docs")
